@@ -1,10 +1,5 @@
 # Fundamentos_Linux
 
----
-¡Perfecto! Entiendo que eres **principiante** y que tu objetivo es mejorar tus **oportunidades laborales** con Linux. Es una excelente decisión, ya que Linux es fundamental en muchos roles de TI hoy en día, como administración de sistemas, desarrollo de software, DevOps, ciberseguridad y computación en la nube.
-
-Para empezar con buen pie, te sugiero que nos enfoquemos en los **conceptos fundamentales y las habilidades prácticas** que son más valoradas en el ámbito laboral.
-
 ### ¿Por dónde te gustaría que empecemos?
 
 Aquí tienes algunas áreas clave que podríamos explorar para darte una base sólida en Linux:
@@ -18,9 +13,6 @@ Aquí tienes algunas áreas clave que podríamos explorar para darte una base s�
 7.  **Conceptos de red básicos:** Configuración de interfaces de red y herramientas básicas para solucionar problemas de conectividad.
 
 ---
-
----
-¡Excelente elección! **Los comandos básicos de la terminal** son la columna vertebral del trabajo en Linux. Dominarlos te dará un poder inmenso y te permitirá interactuar directamente con el sistema operativo.
 
 La **terminal** (o línea de comandos, *CLI* por sus siglas en inglés: *Command Line Interface*) es una interfaz de texto donde escribes comandos para que el sistema los ejecute. Al principio puede parecer un poco intimidante, pero con la práctica verás lo eficiente que es.
 
